@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack
+- 👋 Hi, I’m Jackson
 - 👀 I’m interested in  I love to explore new things by coding, traveling. I really want to enjoy listening to new guys who have many experiences in their life, 
       their job, and really want to learn from them
 - 🌱 I’m currently learning English
