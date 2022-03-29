@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contant me via linkedin: https://www.linkedin.com/in/baophungdevdao/
 
-Thank you for taking your time to read about me
-Best regards
-Jack
 <!---
 baophunggia/baophunggia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
